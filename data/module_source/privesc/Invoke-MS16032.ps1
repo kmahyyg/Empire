@@ -1,4 +1,4 @@
-function Invoke-MS16032 {
+function Invoke-MS16-032 {
 <#
     .SYNOPSIS
         
